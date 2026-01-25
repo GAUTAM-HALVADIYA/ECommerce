@@ -23,6 +23,7 @@ function Hero() {
             </div>
 
             <img src={assets.hero_img} className="w-full sm:w-1/2" alt="" />
+            
         </div>
     );
 }
