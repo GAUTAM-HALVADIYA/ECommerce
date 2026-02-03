@@ -66,6 +66,9 @@ const listProduct = async (req, res) => {
 const removeProduct = async (req, res) => {
     
     try {
+        const {id} = req.body
+        const product = await productModel.findByIdAndDelete(id)
+        
         if (!product) {
             return res.json({
                 success: false,
