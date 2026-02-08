@@ -187,7 +187,7 @@ npm run dev
 ## Author / Contact
 
 **Gautam**  
-Email: <your-email>  
-LinkedIn: <your-linkedin>  
-GitHub: <your-github>
+Email: <halvadiyagautam57@gmail.com>  
+LinkedIn: <https://www.linkedin.com/in/gautam-halvadiya/>  
+
 
