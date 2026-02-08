@@ -83,6 +83,12 @@ function Orders() {
             </div>
           ))
         }
+
+        {orderData.length === 0 && (
+          <p className="text-gray-500 text-sm mt-4">
+            No orders found
+          </p>
+        )}
       </div>
     </div>
   )
